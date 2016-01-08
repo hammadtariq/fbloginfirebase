@@ -1,0 +1,23 @@
+{
+  "name": "Facebook authentication Firebase",
+  "description": "Firebase demo of facebook authentication",
+  "version": "0.0.0",
+  "author": "hammad tariq <hammadtariq65@gmial.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hammadtariq/fbloginfirebase"
+  },
+  "keywords": [
+    "angular",
+    "angularjs",
+    "firebase",
+    "realtime",
+    "facebook",
+    "authentication"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "angular": "1.3.x || 1.4.x",
+    "firebase": "2.x.x"
+  }
+}
