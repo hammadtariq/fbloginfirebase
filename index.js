@@ -1,6 +1,4 @@
-/**
- * Created by 192.168.3.9 on 7/31/2015.
- */
+
 var app=angular.module("myapp",[]);
 
  app.controller("cntrl",function(){
